@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/mariagerotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagerotti&&show_icons=true&title_color=508d4c&icon_color=508d4c&text_color=508d4c&bg_color=ffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariagerotti&layout=compact&langs_count=7&&title_color=508d4c&icon_color=508d4c&text_color=508d4c&bg_color=ffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagerotti&&show_icons=true&title_color=642C8A&icon_color=B59EFE&text_color=000000&bg_color=ffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariagerotti&layout=compact&langs_count=7&&title_color=642C8A&icon_color=508d4c&text_color=508d4c&bg_color=ffff"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +14,6 @@
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="David-Django" height="40" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="David-Django" height="50" width="50" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
 </div>
   
