@@ -15,6 +15,7 @@
   <img align="center" alt="Maria-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Maria-Vuejs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Maria-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img align="center" alt="Maria-Django" height="50" width="50" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Maria-Django" height="50" width="50" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />  
+  <img align="center" alt="Maria-Arduino" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
   
