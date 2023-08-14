@@ -1,4 +1,4 @@
-### { (<br> alert("Hello World! Hello Maria!"); <br> }
+### { <br> alert("Hello World :earth_americas: !  Hello Maria! :wave: "); <br> }
 ## 
 <div align="center">
   <a href="https://github.com/mariagerotti">
