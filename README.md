@@ -2,7 +2,6 @@
 ##
 <div align="center">
   <a href="https://github.com/mariagerotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagerotti&&show_icons=true&title_color=642C8A&icon_color=B59EFE&text_color=000000&bg_color=ffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariagerotti&layout=compact&langs_count=7&&title_color=642C8A&icon_color=508d4c&text_color=508d4c&bg_color=ffff"/>
 </div>
 <div align="center" style="display: inline_block"><br>
