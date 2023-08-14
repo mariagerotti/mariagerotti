@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariagerotti&layout=compact&langs_count=7&&title_color=642C8A&icon_color=508d4c&text_color=508d4c&bg_color=ffff"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
